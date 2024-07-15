@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>你好</title>
+    <link>https://ai-birdfeeder.com</link>
+    <description>你咋样</description>
+    <item>
+      <title>我有一个帽衫</title>
+      <link>https://ai-birdfeeder.com/blogs/articles/hello</link>
+      <description><![CDATA[
+        <h2>我有一个帽衫</h2>
+        <p>我想在网上问问</p>
+        <h2>带上之后很忠诚</h2>
+        <p>像个大耳朵矮人</p>
+      ]]></description>
+      <pubDate>Mon, 15 Jul 2024 12:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
